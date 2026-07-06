@@ -67,11 +67,10 @@ Founded in **2025**. Genrobot — Embodied Intelligence Model delivers high-volu
 
 ### ✉️ Contact Us
 
-**Business Inquiries**  
-bd@genrobot.ai
+**Email**  
+bdmarket@genrobot.ai
 
-**Open Source**  
-opensource@genrobot.ai
+Send us a message anytime
 
 </td>
 </tr>
