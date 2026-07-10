@@ -56,6 +56,7 @@ Founded in **2025**. Genrobot — Embodied Intelligence Model delivers high-volu
 | **DAS Ego** | [Product Manual](https://docs.genrobot.ai/products/das-ego) : DAS Ego manual<br/>[Ego Data Introduction](https://docs.genrobot.ai/guides/das-ego-data-introduction) : DAS Ego data format and usage |
 | **DAS Finger** | [Product Manual](https://docs.genrobot.ai/products/das-finger) : DAS Finger manual, including Ego/Finger pairing<br/>[Ego-Finger Data Introduction](https://docs.genrobot.ai/guides/das-ego-finger-data-introduction) : DAS Ego-Finger data format and usage |
 | **Gripper Controller SDK** | [ROS2 SDK](https://github.com/genrobot-ai/gen_con_sdk_ros2_release) : ROS2 package<br/>[C++ SDK](https://github.com/genrobot-ai/gen_con_sdk_cplus_release) : C++ SDK for Linux and Windows<br/>[Python SDK](https://github.com/genrobot-ai/gen_con_sdk_python_release) : Python SDK<br/>[ROS1 SDK](https://github.com/genrobot-ai/gen_controller_sdk_release) : ROS1 controller SDK |
+| **Finger Controller SDK** | [ROS2 SDK](https://github.com/genrobot-ai/gen_finger_con_ros2_sdk_release) : ROS2 package<br/>[C++ SDK](https://github.com/genrobot-ai/gen_finger_con_cplus_sdk_release) : C++ SDK for Linux and Windows<br/>[Python SDK](https://github.com/genrobot-ai/gen_finger_con_python_sdk_release) : Python SDK<br/>[ROS1 SDK](https://github.com/genrobot-ai/gen_finger_con_ros1_sdk_release) : ROS1 controller SDK |
 | **DAS Data Toolkit** | [das-datakit](https://github.com/genrobot-ai/das-datakit) : MCAP/H5 data parsing and conversion tools |
 
 <br>
